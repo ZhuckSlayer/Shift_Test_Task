@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShiftTestExample</string>
+    <string name="City">Город: %s</string>
+    <string name="Full_name">ФИО: %s</string>
+    <string name="Gender">Пол: %s</string>
+    <string name="Email">Почта: %s</string>
+    <string name="Dob">Дата рождения: %s</string>
+    <string name="phone">Телефон: %s</string>
+    <string name="Age">Возраст: %s</string>
+    <string name="Street">Улица: %s</string>
+    <string name="country">Страна: %s</string>
+    <string name="postal">Почтовый код: %s</string>
+    <string name="imageUser">Изображение пользователя</string>
+</resources>
